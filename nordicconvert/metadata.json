@@ -1,0 +1,5 @@
+{
+  "name": "NordicConvert",
+  "description": "Ein schneller, einfacher und offline-fähiger Währungsrechner für Norwegische Kronen (NOK) und Euro (EUR).",
+  "requestFramePermissions": []
+}
